@@ -4,9 +4,7 @@
 </div>
 
 ###
-
-<img href="https://github.com/feriagusetiawan/feriagusetiawan/blob/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/feriagusetiawan/feriagusetiawan/blob/output/snake.svg)
 
 ###
 
