@@ -12,6 +12,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/feriagusetiawan/count.svg?"  />
 </div>
-
-###
-Profile Readme Generator
